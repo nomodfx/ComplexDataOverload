@@ -1,4 +1,4 @@
-//complexData with overloaded + operator
+//complexData with overloaded + operator to find imaginary and real numbers
 #include<iostream>
 using namespace std;
 
